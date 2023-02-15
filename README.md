@@ -1,1 +1,1 @@
-Here i do the project which is used for the sales prediction.
+Here i do the project which is based on the sales prediction
